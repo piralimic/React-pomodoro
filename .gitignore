@@ -3,3 +3,4 @@
 /.cache
 .eslintrc.js
 .prettierrc
+.eslintcache
