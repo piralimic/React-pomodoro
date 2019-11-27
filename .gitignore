@@ -1,6 +1,18 @@
-/node_modules
-/dist
-/.cache
+node_modules/
+dist/
+.cache/
 .eslintrc.js
 .prettierrc
 .eslintcache
+coverage/
+!dist/index.html
+*.log
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.babelrc
