@@ -2,7 +2,7 @@
   "name": "@piralimic/pomodoro",
   "version": "1.0.0",
   "description": "React application using Parcel",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/piralimic/React-pomodoro#readme",
   "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-react": "^7.7.4",
     "@becode/eslint-config": "^0.8.2",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.7.1",
@@ -26,6 +29,7 @@
     "eslint-plugin-unicorn": "^13.0.0",
     "husky": "^3.1.0",
     "lint-staged": "^9.4.3",
+    "parcel-bundler": "^1.12.4",
     "prettier": "^1.19.1"
   },
   "lint-staged": {
@@ -38,5 +42,12 @@
     "hooks": {
       "pre-commit": "npx lint-staged"
     }
+  },
+  "dependencies": {
+    "@types/react": "^16.9.13",
+    "app": "^0.1.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-hot-loader": "^4.12.18"
   }
 }

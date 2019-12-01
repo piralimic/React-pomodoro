@@ -1,0 +1,17 @@
+body {
+  background: url("../img/bg.jpg");
+}
+
+a, button {
+    margin: 5px;
+}
+
+.semiWhite {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.axeYspacing {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 100px;
+}
