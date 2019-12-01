@@ -1,13 +1,13 @@
 import React from "react";
-import DigitTimer from "./components/digit-timer";
-import ButtonControlStart from "./components/button-control-start";
-import ButtonControlStop from "./components/button-control-stop";
-import ButtonControlReset from "./components/button-control-reset";
-import ButtonPlusSecond from "./components/button-plus-second";
-import ButtonPlusMinute from "./components/button-plus-minute";
-import ButtonMinusSecond from "./components/button-minus-second";
-import ButtonMinusMinute from "./components/button-minus-minute";
-import Modal from "./components/modal";
+import DigitTimer from "/components/digit-timer";
+import ButtonControlStart from "/components/button-control-start";
+import ButtonControlStop from "/components/button-control-stop";
+import ButtonControlReset from "/components/button-control-reset";
+import ButtonPlusSecond from "/components/button-plus-second";
+import ButtonPlusMinute from "/components/button-plus-minute";
+import ButtonMinusSecond from "/components/button-minus-second";
+import ButtonMinusMinute from "/components/button-minus-minute";
+import Modal from "/components/modal";
 
 class App extends React.Component {
     constructor(props) {
