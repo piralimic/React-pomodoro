@@ -13,9 +13,6 @@ React application using Parcel
 ![alt text][preview]
 
 ## Functionalities
-
-#### [Last version Demo][demo] available on Netlify
-
 - User can set custom Timer
 - Increment/Decrement Timer by +1 Min. and/or +10 Sec.
 - *START* will save the current Timer set
@@ -23,6 +20,7 @@ React application using Parcel
 - *RESET* will set the Timer with the previous Timer set
 - Ending Timer will tell the user to have a break or start the previous Timer again
 
+#### [Last version Demo][demo] available on Netlify
 
 ## Building and running on localhost
 
