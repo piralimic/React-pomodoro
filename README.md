@@ -53,5 +53,6 @@ Open the file `dist/index.html` in your browser
 
 Made with [createapp.dev](https://createapp.dev/)
 
-[preview]: preview.png "Pomodoro Go!"
+[preview-start]: preview.png "Pomodoro Go!"
+[preview-end]: preview2.png "Pomodoro Go! time's up"
 [demo]: https://5de4e62685e1992eb48175e3--wonderful-payne-71b14c.netlify.com/
