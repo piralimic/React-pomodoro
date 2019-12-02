@@ -13,7 +13,8 @@ React application using Parcel
 
 ## Preview
 
-![alt text][preview]
+![alt text][preview-start]
+![alt text][preview-end]
 
 ## Functionalities
 - User can set custom Timer
