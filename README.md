@@ -14,7 +14,7 @@ React application using Parcel
 
 ## Functionalities
 
-<p>[Last version Demo][demo] available on Netlify</p>
+#### [Last version Demo][demo] available on Netlify
 
 - User can set custom Timer
 - Increment/Decrement Timer by +1 Min. and/or +10 Sec.
