@@ -1,4 +1,7 @@
 # React-pomodoro
+
+#### > [Last version Demo][demo] available on Netlify
+
 React application using Parcel
 - Parcel createapp.dev : https://createapp.dev/parcel
 - Parcel official : https://parceljs.org/getting_started.html
@@ -20,7 +23,7 @@ React application using Parcel
 - *RESET* will set the Timer with the previous Timer set
 - Ending Timer will tell the user to have a break or start the previous Timer again
 
-#### [Last version Demo][demo] available on Netlify
+#### > [Last version Demo][demo] available on Netlify
 
 ## Building and running on localhost
 
